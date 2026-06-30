@@ -1,5 +1,7 @@
 # WhatsApp Clone
 
+![Demo](./whatsapp-clone.png)
+
 A real-time chat application built with **React**, **Node.js**, **Express**, and **Socket.IO** — supporting private messaging and group chats.
 
 ---
